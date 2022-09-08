@@ -1,4 +1,4 @@
-#**[rsschool-cv](https://github.com/Shuhrat2002/rsschool-cv.git)**
+**[rsschool-cv](https://github.com/Shuhrat2002/rsschool-cv.git)**
 ---
 Shuxratbek Uzakbayev
 ___
